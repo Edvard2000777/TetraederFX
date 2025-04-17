@@ -10,5 +10,5 @@
 Запуск программы осуществляется из файла run.bat расположен: 
 TetraederFX\src\main\java\com\example\demo45\TetraederFX_jar 
 
-Папки для проверки работы программы находятся по расположению: 
-TetraederFX\src\main\java\com\example\demo45
+Папки для проверки работы программы расположены: 
+TetraederFX\src\main\java\com\exampledemo45

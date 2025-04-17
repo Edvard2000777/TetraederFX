@@ -10,3 +10,5 @@
 
   Запуск программы осуществляется из run.but файла по расположению:
  TetraederFX\out\artifacts\TetraederFX_jar
+Папки для проверки работы программы находятся по расположению:
+TetraederFX\src\main\java\com\example\demo45
